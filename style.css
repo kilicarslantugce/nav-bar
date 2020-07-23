@@ -1,0 +1,49 @@
+  
+
+/* Seçilen renk teması :https://color.adobe.com/tr/color-theme_Captura-de-Pantalla-2020-06-29-a-la(s)-12-color-theme-15312167 */
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background-color: #0F1218;
+
+  }
+  
+  .navbar-nav {
+    width: 100%;
+    text-align: center;
+    background-color: #0F1218;
+    position: fixed;
+  }
+
+ 
+  .form-control-lg{
+    background-color: #D5D4D0;
+    width: 500px;
+
+  }
+
+ .form-inline{
+
+    margin-top: 5px;
+    
+ } 
+.buton{
+    margin-top: 5px;
+    margin-left: 650px;
+    background-color: #293448;
+    border-radius: 10px;
+    padding: 9px 25px;
+    font-size: 20px;
+     }
+
+
+ .icons {
+    margin-top: 5px;
+    margin-right: 100px;
+    font-size: 40px;
+    color: #FFFFFF;
+      
+
+ }
+
+ 
