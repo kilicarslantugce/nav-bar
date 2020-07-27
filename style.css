@@ -24,6 +24,7 @@ background-color: #0F1218 ;
 .cardSize{
   margin: auto;
   width: 70%;
-  margin-top: 100px;
+  margin-top: 150px;
+  margin-block-end: 80px;
 
         }
