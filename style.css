@@ -15,15 +15,15 @@ background-color: #0F1218 ;
  }
 
 
- hr {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    border: 0;
-    border-top: 1px solid rgba(243, 17, 17, 0.9);
-  }
-
+ 
   .navbar
         {
             border-bottom:1px solid white;
         }
  
+.cardSize{
+  margin: auto;
+  width: 70%;
+  margin-top: 100px;
+
+        }
