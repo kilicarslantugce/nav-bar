@@ -1,0 +1,28 @@
+
+@import "C:/Users/TNK/AppData/Roaming/npm/node_modules/bootstrap-4.5.0/scss/bootstrap";
+
+$body-bg: #293448 ;
+$font-stack:    Helvetica, sans-serif;
+
+body {
+  background-color: $body-bg; 
+  font: 100% $font-stack;
+  
+}
+
+
+nav {
+
+    background-color: $body-bg;
+    position: fixed;
+}
+
+
+#card {
+   
+   margin: 55px;
+   width: 1480px;
+   height: 250px;
+}
+
+
